@@ -17,6 +17,6 @@ This project is licensed under the MIT License.
 - **Ypzar John Sandoval** - [LinkedIn](https://www.linkedin.com)
 - **Adrielle Rivera** - [LinkedIn](https://www.linkedin.com)
 - **Dane Morte** - [LinkedIn](https://www.linkedin.com)
-- **Rona Tupas** - [LinkedIn](https://www.linkedin.com)
+- **Rona Tupas** - [LinkedIn](https://www.linkedin.com/in/rona-tupas-437299a8/)
 
 
